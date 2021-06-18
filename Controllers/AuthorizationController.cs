@@ -1,7 +1,5 @@
-using System;
 using Microsoft.AspNetCore.Mvc;
 using office_manage_api.Services.Interfaces;
-using office_manage_api.Services;
 using Microsoft.Extensions.Options;
 using office_manage_api.Configure;
 
@@ -22,7 +20,7 @@ namespace office_manage_api.Controllers
         [Route("api/test")]
         public IActionResult Test()
         {
-            return Ok(new { status = 200, secrect = AppSettings.Jwt.Secret});
+            return Ok(new { status = 200, secrect = AppSettings.Jwt.Secret });
         }
     }
 }
