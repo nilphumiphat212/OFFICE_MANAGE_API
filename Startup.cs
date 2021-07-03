@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
 using office_manage_api.Configure;
 using office_manage_api.Services.Interfaces;
 using office_manage_api.Services;
@@ -19,6 +20,7 @@ namespace office_manage_api
 {
     public class Startup
     {
+        private string cors = "cors";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -29,18 +31,33 @@ namespace office_manage_api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            IConfigurationSection appSettings = Configuration.GetSection("AppSettings");
+            services.Configure<AppSettings>(appSettings);
+            services.PostConfigure<AppSettings>(options => {});
 
+            services.AddDbContext<DatabaseContext>(options => {
+                options.UseSqlServer(Configuration.GetConnectionString("db_connection"));
+            });
+            
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "office_manage_api", Version = "v1" });
             });
+
+            services.AddCors(options => {
+                options.AddPolicy(cors, builder => {
+                    builder.AllowAnyHeader();
+                    builder.AllowAnyMethod();
+                    builder.AllowAnyOrigin();
+                });
+            });
             
-            IConfigurationSection appSettings = Configuration.GetSection("AppSettings");
-            services.Configure<AppSettings>(appSettings);
-            services.PostConfigure<AppSettings>(options => {});
 
             services.AddSingleton<IJwtService, JwtService>();
+            services.AddScoped<IAuthenticationService, AuthenticationService>();
+            services.AddScoped<IWorkingTimeService, WorkingTimeService>();
+            services.AddScoped<IUserService, UserService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -53,7 +70,9 @@ namespace office_manage_api
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "office_manage_api v1"));
             }
 
-            app.UseHttpsRedirection();
+            app.UseCors(cors);
+
+            // app.UseHttpsRedirection();
 
             app.UseRouting();
 
