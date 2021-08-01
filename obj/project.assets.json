@@ -6343,24 +6343,31 @@
     ]
   },
   "packageFolders": {
-    "/Users/lbs-dev/.nuget/packages/": {}
+    "C:\\Users\\nilph\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lbs-dev/My Project/OFFICE_MANAGE_API/office_manage_api.csproj",
+      "projectUniqueName": "C:\\Users\\nilph\\Project\\office_manage_api\\office_manage_api.csproj",
       "projectName": "office_manage_api",
-      "projectPath": "/Users/lbs-dev/My Project/OFFICE_MANAGE_API/office_manage_api.csproj",
-      "packagesPath": "/Users/lbs-dev/.nuget/packages/",
-      "outputPath": "/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/",
+      "projectPath": "C:\\Users\\nilph\\Project\\office_manage_api\\office_manage_api.csproj",
+      "packagesPath": "C:\\Users\\nilph\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nilph\\Project\\office_manage_api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/lbs-dev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\nilph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6432,7 +6439,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

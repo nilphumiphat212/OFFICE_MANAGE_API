@@ -21,14 +21,14 @@ namespace office_manage_api.Controllers
 
         [HttpPost]
         [Route("api/workingtime/checkin")]
-        public ActionResult<WorkingTimeDto> Checkin([FromBody] WorkingTimeDto data)
+        public ActionResult<WorkingTimeRequest> Checkin([FromBody] WorkingTimeRequest data)
         {
             return Ok(data);
         }
 
         [HttpPost]
         [Route("api/workingtime/checkout")]
-        public ActionResult<WorkingTimeDto> Checkout([FromBody] WorkingTimeDto data)
+        public ActionResult<WorkingTimeRequest> Checkout([FromBody] WorkingTimeRequest data)
         {
             return Ok(data);
         }
