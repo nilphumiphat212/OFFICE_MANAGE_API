@@ -1,61 +1,123 @@
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\appsettings.json
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\office_manage_api.exe
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\office_manage_api.deps.json
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\office_manage_api.runtimeconfig.json
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\office_manage_api.runtimeconfig.dev.json
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\office_manage_api.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\ref\office_manage_api.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\office_manage_api.pdb
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.csproj.AssemblyReference.cache
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.AssemblyInfoInputs.cache
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.AssemblyInfo.cs
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.csproj.CoreCompileInputs.cache
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\staticwebassets\office_manage_api.StaticWebAssets.Manifest.cache
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\staticwebassets\office_manage_api.StaticWebAssets.xml
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\scopedcss\bundle\office_manage_api.styles.css
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.RazorTargetAssemblyInfo.cache
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.csproj.CopyComplete
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.dll
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\ref\office_manage_api.dll
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.pdb
-C:\Users\nilph\Project\office_manage_api\obj\Debug\net5.0\office_manage_api.genruntimeconfig.cache
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Humanizer.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\System.Runtime.Caching.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\nilph\Project\office_manage_api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/appsettings.json
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/office_manage_api.exe
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/office_manage_api.deps.json
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/office_manage_api.runtimeconfig.json
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/office_manage_api.runtimeconfig.dev.json
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/office_manage_api.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/ref/office_manage_api.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/office_manage_api.pdb
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.OpenApi.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.csproj.AssemblyReference.cache
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.AssemblyInfoInputs.cache
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.AssemblyInfo.cs
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.csproj.CoreCompileInputs.cache
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/staticwebassets/office_manage_api.StaticWebAssets.Manifest.cache
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/staticwebassets/office_manage_api.StaticWebAssets.xml
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/scopedcss/bundle/office_manage_api.styles.css
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.RazorTargetAssemblyInfo.cache
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.csproj.CopyComplete
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.dll
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/ref/office_manage_api.dll
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.pdb
+C:/Users/nilph/Project/office_manage_api/obj/Debug/net5.0/office_manage_api.genruntimeconfig.cache
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Humanizer.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/nilph/Project/office_manage_api/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/appsettings.Development.json
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/appsettings.json
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/office_manage_api.deps.json
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/office_manage_api.runtimeconfig.json
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/office_manage_api.runtimeconfig.dev.json
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/office_manage_api.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/ref/office_manage_api.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/office_manage_api.pdb
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Humanizer.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.csproj.AssemblyReference.cache
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.AssemblyInfoInputs.cache
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.AssemblyInfo.cs
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.csproj.CoreCompileInputs.cache
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/staticwebassets/office_manage_api.StaticWebAssets.Manifest.cache
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/staticwebassets/office_manage_api.StaticWebAssets.xml
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/scopedcss/bundle/office_manage_api.styles.css
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.RazorTargetAssemblyInfo.cache
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.csproj.CopyComplete
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/ref/office_manage_api.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.pdb
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/obj/Debug/net5.0/office_manage_api.genruntimeconfig.cache
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Npgsql.dll
+/Users/lbs-dev/My Project/OFFICE_MANAGE_API/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
