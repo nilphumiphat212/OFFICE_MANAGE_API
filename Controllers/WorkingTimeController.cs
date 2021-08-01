@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using office_manage_api.Services.Interfaces;
-using office_manage_api.Models.Dto;
+using office_manage_api.Models.Dto.Requests;
 
 namespace office_manage_api.Controllers
 {
@@ -21,14 +21,14 @@ namespace office_manage_api.Controllers
 
         [HttpPost]
         [Route("api/workingtime/checkin")]
-        public IActionResult Checkin(WorkingTimeDto data)
+        public ActionResult<WorkingTimeDto> Checkin([FromBody] WorkingTimeDto data)
         {
             return Ok(data);
         }
 
         [HttpPost]
         [Route("api/workingtime/checkout")]
-        public IActionResult Checkout(WorkingTimeDto data)
+        public ActionResult<WorkingTimeDto> Checkout([FromBody] WorkingTimeDto data)
         {
             return Ok(data);
         }
